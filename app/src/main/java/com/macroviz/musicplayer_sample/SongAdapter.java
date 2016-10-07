@@ -13,7 +13,7 @@ import java.util.List;
  * Created by user on 2016/10/7.
  */
 public class SongAdapter extends BaseAdapter {
-    //宣告inflater
+
     LayoutInflater inflater;
     private List<Song> songs;
     public SongAdapter(Context c, List<Song> song) {
